@@ -1,0 +1,14 @@
+{
+  "name": "001-json-server",
+  "version": "0.0.1",
+  "description": "Nothing real/serious... It returns some data to test with.",
+  "main": "entrypoint.js",
+  "scripts": {
+    "start": "node entrypoint.js"
+  },
+  "author": "Faruq Alli-Balogun for Autochek",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

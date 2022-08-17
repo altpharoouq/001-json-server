@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Ms. Marvel & Moon Knight",
+    "description": "THE FIST OF KHONSHU MEETS THE EMBIGGENED FIST OF MS. MARVEL! MARC SPECTOR, A.K.A. MOON KNIGHT, protects the travelers of night…but what about those traveling to bring him death? A mechanical (and maniacal!) threat brings MS. MARVEL into Moon Knight's orbit, and the gravity of what they uncover will require them to plumb the depths of life and death! The mystery teased in last month's team-up with WOLVERINE continues to unfurl as the super hero spectacle of the summer sizzles on!",
+    "ratings": "Rated T+",
+    "price": "$4.99",
+    "imageSrc": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/62fab08497f51/clean.jpg",
+    "publicationDate": "August 17, 2022",
+    "team": {
+      "writer": "Jody Houser",
+      "penciler": "Ibraim Roberson",
+      "inker": "Ibraim Roberson",
+      "editor": "Mark Basso",
+      "letterer": "Vc Cory Petit"
+    }
+  },
+  {
+    "id": 2,
+    "title": "A.X.E.: Death to the Mutants",
+    "description": "The mutants are Deviants. Eternals are coded to correct excess deviation. The mutants are eternal, Mars colonizers, ever-spreading. Eternals know what they should do. Our heroes don’t want to, but can they resist the murderous designs coded into their body as surely as any Sentinel? And if they can’t, can anyone survive the coming judgment?",
+    "ratings": "Rated T+",
+    "price": "$3.99",
+    "imageSrc": "https://i.annihil.us/u/prod/marvel/i/mg/c/20/62f3c6a48a4cb/clean.jpg",
+    "publicationDate": "August 17, 2022",
+    "team": {
+      "writer": "Kieron Gillen",
+      "penciler": "Guiu Vilanova",
+      "inker": "Guiu Vilanova",
+      "editor": "Tom Brevoort",
+      "letterer": "Vc Travis Lanham"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Fortnite X Marvel: Zero War",
+    "description": "The return of an unlikely ally brings Iron Man and the Foundation closer to their goal. Meanwhile, it's an all-out brawl against Stegron and his dinosaur hybrids in the Savage Land as the hunt for the Zero Shard heats up! But Stegron's not the only villain interested in the Zero Shard…",
+    "ratings": "Rated T+",
+    "price": "$4.99",
+    "imageSrc": "https://i.annihil.us/u/prod/marvel/i/mg/6/50/62f3c6a350e75/clean.jpg",
+    "publicationDate": "August 17, 2022",
+    "team": {
+      "writer": "Christos Gage",
+      "penciler": "Sergio Davila",
+      "inker": "Sean Parsons",
+      "editor": "Alanna Smith",
+      "letterer": "Vc Joe Caramagna"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Star Wars: The Mandalorian",
+    "description": "Battle with the beastly Mudhorn! Having tracked down a valuable quarry, the Mandalorian must now contend with thieving bandits. Will the Mandalorian battle it out with the Jawas or is an alliance in the cards?",
+    "ratings": "Rated T+",
+    "price": "$4.99",
+    "imageSrc": "https://i.annihil.us/u/prod/marvel/i/mg/6/c0/62f3c657ad583/clean.jpg",
+    "publicationDate": "August 17, 2022",
+    "team": {
+      "writer": "Rodney Barnes",
+      "penciler": "Georges Jeanty",
+      "inker": "Karl Story",
+      "editor": "Mark Paniccia",
+      "letterer": "Vc Joe Caramagna"
+    }
+  },
+  {
+    "id": 5,
+    "title": "The Amazing Spider-Man",
+    "description": "An alien invasion hits New York City and the only one who can stop it is…Spider-Man?! And if even that's not enough, you'll see a new roommate, new love interests - and a new villain! Spider-Man goes back to basics courtesy of Nick Spencer (SECRET EMPIRE, SUPERIOR FOES OF SPIDER-MAN) and the Marvel debut of RYAN OTTLEY (Invincible)!",
+    "ratings": "Rated T+",
+    "price": "$5.99",
+    "imageSrc": "https://i.annihil.us/u/prod/marvel/i/mg/b/90/5b3feb60f1a30/clean.jpg",
+    "publicationDate": "July 11, 2018",
+    "team": {
+      "writer": "Nick Spencer",
+      "penciler": "Humberto Ramos",
+      "inker": "Victor Olazaba",
+      "editor": "Nick Lowe",
+      "letterer": "Vc Joe Caramagna"
+    }
+  }
+]
