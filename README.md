@@ -1,4 +1,4 @@
-The purpose of this package is to provide a simple controllable API data to test SEO and react page rendering in different modes (SSR/SSG).
+The purpose of this repository is to provide a simple controllable API data to test SEO and react page rendering in different modes (SSR/SSG).
 
 Live URL: https://fake-comic-api.herokuapp.com/
 
