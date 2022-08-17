@@ -28,5 +28,4 @@ module.exports = {
   zombie
 }
 ```
-
-
+NOTE: This is built on `json-server` package. Click [here](https://www.npmjs.com/package/json-server) to learn more about `json-server`.
